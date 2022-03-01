@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doctrinal of princes made by the noble oratour Isocrates, [and] translated out of Greke in to Englishe by syr Thomas Eliot knight</title>
+            <title>To Nicocles. English</title>
+            <author>Isocrates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1550</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14170</idno>
+            <idno type="STC">STC 14279</idno>
+            <idno type="STC">ESTC S109091</idno>
+            <idno type="EEBO-CITATION">99844741</idno>
+            <idno type="PROQUEST">99844741</idno>
+            <idno type="VID">173069</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14170)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173069)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 54:14, 143:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doctrinal of princes made by the noble oratour Isocrates, [and] translated out of Greke in to Englishe by syr Thomas Eliot knight</title>
+                  <title>To Nicocles. English</title>
+                  <author>Isocrates.</author>
+                  <author>Elyot, Thomas, Sir, 1490?-1546.</author>
+               </titleStmt>
+               <extent>20 leaves   </extent>
+               <publicationStmt>
+                  <publisher>In Flete strete, in the house of Thomas Berthelet,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>[ca. 1550]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of: To Nicocles.</note>
+                  <note>Printer's name and address from colophon; publication date estimated by STC.</note>
+                  <note>The woodcut frame on title page has "1534" in the sill.</note>
+                  <note>Running title reads: Isocrates to Nicocles.</note>
+                  <note>Identified as STC 14277 at reel 54:14.</note>
+                  <note>Reproductions of the originals in the British Library and the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Appears at reel 54 (British Library copy) and at reel 143 (Henry E. Huntington Library and Art Gallery copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kings and rulers --  Duties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173069:1"/>
+            <pb facs="tcp:173069:1"/>
+            <p>
+               <hi>THE DOCTRI<g ref="char:EOLhyphen"/>NAL OF PRIN<g ref="char:EOLhyphen"/>ces</hi> made by the noble oratour Iſocrates, &amp; tranſ<g ref="char:EOLhyphen"/>lated out of Greke in to En<g ref="char:EOLhyphen"/>gliſhe by ſyr Tho<g ref="char:EOLhyphen"/>mas Eliot knight. 1534</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:173069:2"/>
+            <pb n="2" facs="tcp:173069:2"/>
+            <head>Sir Thomas Eliot knight to the reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>his little booke (whiche in mine opinion) is to be com<g ref="char:EOLhyphen"/>pared in cou<g ref="char:cmbAbbrStroke">̄</g>ſaile and ſhort ſentence with any booke, holy ſcripture excepted, I haue tranſla<g ref="char:EOLhyphen"/>ted out of greeke, not preſumyng to con<g ref="char:EOLhyphen"/>tende with theim, whiche haue doone the ſame in latine: but to thintent one<g ref="char:EOLhyphen"/>ly that I wolde aſſaie, if our Engliſſhe tunge mought receiue the quicke and propre ſentences pronounced by the greekes. And in this experience I haue founde (if I be not muche deceiued) that the forme of ſpeakyng, vſed of the Greekes, called in greeke, and alſo in latine, <hi>Phraſis,</hi> muche nere approcheth to that, whiche at this daie we vſe: than the order of the latine tunge: I meane in the ſentences, and not in the wordes: whiche I doubte not ſhall be affirmed
+<pb facs="tcp:173069:3"/>by them, who ſufficiently inſtructed in all the ſaide three tunges, ſhall with a good iudgement read this worke. And where I haue put at the beginnyng this wordꝭ, veſſell, plate, or for that which is in greeke, braſſe or golde wrought, it is perceiued of euery wiſe man, for what intent I did it. Finally the chiefe cauſe of this my litle exerciſe was: to the in<g ref="char:EOLhyphen"/>tent that thei, which do not vnderſtande greeke nor latine, ſhoulde not lacke the commoditee and pleaſure, whiche maie be taken in readyng therof. wherfore if I ſhall perceiue you to take this myne enterpriſe thankefully, I ſhall that litle porcion of life, whiche remaineth (God ſendyng me quietneſſe of minde) be<g ref="char:EOLhyphen"/>ſtowe in preparing for you ſuch bookes, in the readyng wherof, ye ſhall finde bothe honeſt paſſe tyme and alſo profi<g ref="char:EOLhyphen"/>table counſaile and lernyng.</p>
+            <closer>
+               <salute>Fare ye well.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:173069:3"/>
+            <head>¶ The oracion of Iſocrates to Nicocles the kynge.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hei that b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wonte Nico<g ref="char:EOLhyphen"/>cles, to bringe to you, that be kynges, garmen<g ref="char:EOLhyphen"/>tes, veſſell, or plate, or o<g ref="char:EOLhyphen"/>ther lyke iewelles, wher<g ref="char:EOLunhyphen"/>of thei be nedie, and ye be riche, and haue plentie: thei plainely ſeme vnto me, not to preſent you, but to make o<g ref="char:EOLhyphen"/>pen market, ſellyng thoſe thinges much more craftily, than thei that confeſſe them ſelfe to retaile. For my parte I ſuppoſe that to bee the beſte gefte and moſte profitable, alſo moſt conuenient as well for me to geue, as for the to re<g ref="char:EOLhyphen"/>ceiue, if I mought preſcribe vnto the, by what ſtudies deſiryng, and from what workes abſteinyng; thou maiſt beſt order thy roialme and citee. For to priuate perſons be ſufficient Inſtructi<g ref="char:EOLhyphen"/>ons, ſpecially that thei liue not delicate<g ref="char:EOLhyphen"/>ly, but daiely do labour for thinges con<g ref="char:EOLhyphen"/>cernyng
+<pb facs="tcp:173069:4"/>their liuyng. And moreouer thei haue lawes, wherby thei are gouer<g ref="char:EOLunhyphen"/>ned: Thei h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue alſo libertee of ſpeche, wherwith it is lefull for freendes to blame eche other, and enemies to re<g ref="char:EOLhyphen"/>proche eche other of their offences.</p>
+            <p>Therto diuers ancient poetes haue left ſondrie workes, inſtructyng men howe to liue well, ſo that by all thoſe meanes it ſeemeth, that diuers men haue amen<g ref="char:EOLhyphen"/>ded their liuyng.</p>
+            <p>¶ But to great princes no ſuche thyng hapneth, for thei, who of all other ought to be beſt taught or inſtructed, after thei be ones ſtabliſhed in their authoritee: thei ſtyll perſeuere moſt ignorant and without lernyng. For as muche as ma<g ref="char:EOLhyphen"/>ny men dare not approche them, and thei that kepe theim companie ſpeake alwaie to pleaſe them.</p>
+            <p>¶ Moreouer, beyng made lordes of muche ſubſtance and great authoritee, and not vſyng well ſuche occſions as
+<pb n="4" facs="tcp:173069:4"/>happen, thei haue cauſed many to doubte, whiche life is beſt to be choſen, either of them that liue priuately and meanely, or of them that be in princely dignitee. for whan they beholde their honour, richeſſe, and authoritee, thei ſuppoſe, that all princes be equall to gods, but whan thei conſider the feare and perils, and reuoluyng in their re<g ref="char:EOLhyphen"/>membrances dooe finde ſome ſlaine by them, that leſte ought to haue doone it, other doyng ſome diſpleaſure to their moſt familiar companions, to diuers hapneth bothe the one and the other: than contrarie wiſe thei thinke it better and more commodious, to liue in any o<g ref="char:EOLhyphen"/>ther maner, how ſo euer it be, than in ſo many dangers, to be kynge of all A<g ref="char:EOLhyphen"/>ſie. The cauſe of this diſorder and trou<g ref="char:EOLhyphen"/>ble, is for as muche as thei repute a kyngedome as mete for euery man to haue, as any other meane office, where of al thinges perteining to man, a king<g ref="char:EOLhyphen"/>dome
+<pb facs="tcp:173069:5"/>is the greatteſt, and requireth moſt prouidence, touchyng euery acte, wherby a man maie beſte gouerne ac<g ref="char:EOLhyphen"/>cordyng to the maners of people, and to obſerue ſuche thinges as be good, and exchue thoſe that be noifull: it is expe<g ref="char:EOLhyphen"/>dient to take counſaile, and examine ſuche actes as be in daily experience. Generally, all ſtudies, whiche ought to be obſerued moſt diligently, and wher<g ref="char:EOLhyphen"/>in a man ought to be exerciſed, I wyll aſſaie to declare. but whether this my gifte ones finiſhed, ſhall accorde to the purpoſe that I goe about: it is harde to know at the beginnyng. for many thin<g ref="char:EOLhyphen"/>ges, whiche haue bene written as well in verſe as in proſe, as longe as thei were in the myndes of the writars, men had of them great expectacion: but af<g ref="char:EOLhyphen"/>ter thei were ones finiſhed &amp; openly pu<g ref="char:EOLhyphen"/>bliſhed, men had of them opinion much laſſe than thei hoped. Howe be it this myne enterpriſe is to be commended,
+<pb n="5" facs="tcp:173069:5"/>wherin I ſeke for that, whiche other men haue committed, and do preſcribe rules to them that be gouernours.</p>
+            <p>¶ For they that teache priuate perſons, do profite them whom thei teache one<g ref="char:EOLhyphen"/>ly: But if any man inſtructeth in vertu them that haue rule ouer the multitude, he therby profiteth the one and the other as well them that be in auctoritee, as thoſe that be vnder their gouernance, for as muche as to the firſte he maketh their aucthoritee the more ſtable and ſure, and to the other he cauſeth the rule or gouernance to be the more eaſier.</p>
+            <p>¶ Firſt therfore it muſte be conſidered, what is the office of them that dooe go<g ref="char:EOLhyphen"/>uerne, for if we order well the head, and that which is the principall of the whole matter, hauyng our reſpecte thervnto, the better ſhall we treate of the reſidue.</p>
+            <p>
+               <g ref="char:leaf">❧</g> I ſuppoſe all men wyll graunt, that it perteineth to princes, their countceie by any adueſitee, beyng troubled, to ſet
+<pb facs="tcp:173069:6"/>it in quietneſſe: And if it be welthie, ſo to preſerue it. And to make alſo great of that, that is litle, ſens therfore all o<g ref="char:EOLhyphen"/>ther thynges, whiche daiely happen, ought to bee doone and experienced, and verily it is apparant to all men, that it behoueth them, that are and ſhal be of power to do the premiſſes, and al<g ref="char:EOLhyphen"/>ſo thoſe, whiche ſhall therof conſult, not to be ignorant: but to conſider how thei maie vſe them more prudently than o<g ref="char:EOLhyphen"/>ther in their miniſtracion.</p>
+            <p>For it is very certaine that ſuche ſhall princes haue their roialmes and gouer<g ref="char:EOLhyphen"/>nance, as thei them ſelfes haue prepa<g ref="char:EOLhyphen"/>red their owne mindes and opinions.</p>
+            <p>And therfore no wraſteler or champion ought ſo muche to trauaile his bodie in exerciſe, as kynges ought their mindes in ſtudie: for all the prices that euer were geuen in commune games or Iuſtes, are in no parte to be compared to that price, wherfore ye that be kin<g ref="char:EOLhyphen"/>ges,
+<pb n="6" facs="tcp:173069:6"/>daiely do labour: whiche thynges conſidered, it is expedient to take good hede, that as muche as thou excelleſt o<g ref="char:EOLhyphen"/>ther men in honour, ſo much more thou maieſt excede them in vertues. And thinke not care and dilige<g ref="char:cmbAbbrStroke">̄</g>ce in al other thinges profitable, and in makyng vs better to be of none importance: Ne condemne not mans infelicitee, that concernyng beaſtes we haue founde craftes to make them tame, and to be of more value, and litle do auaunce our ſelfes to the atteinyng of vertue. but rather as lernyng and induſtrie maie be in any thynge beneficiall vnto our ſoules, ſo order thy witte and opinion. Be alſo moſt familiar with them, whi<g ref="char:EOLhyphen"/>che beyng about the, be wiſeſt: and get other ſuche as thou maieſt come by moſte like vnto them.</p>
+            <p>Thinke not that it ſhall become thee, to lacke the knowlage of any famous poetes and other great learned men:
+<pb facs="tcp:173069:7"/>but be thou of the one the herer, of the other the diſciple or ſcholer.</p>
+            <p>¶ Prepare thy ſelfe ſo, that in vertue thou maieſt be iudge of them, whiche therin be thine inferiours, and a conten<g ref="char:EOLhyphen"/>dar with them that be thy ſuperiours, by ſuche maner of exerciſe thou ſhalte ſoone atteine to be ſuche one, as we de<g ref="char:EOLhyphen"/>termined that he ought to be, that ru<g ref="char:EOLhyphen"/>leth a right, and gouerneth well his countreie or citee.</p>
+            <p>¶ Thou ſhalt be counſailed beſt by thy ſelfe, in thinkyng it inconuenient, that the better be ruled by the worſe, or that fooles before wiſe men ſhulde be pre<g ref="char:EOLhyphen"/>ferred.</p>
+            <p>
+               <g ref="char:leaf">❧</g> The more vehemently thou abhor<g ref="char:EOLhyphen"/>reſt other mens madneſſe or folie, the better ſhalte thou practiſe thy wit: for therat muſt thei begyn, that purpoſe to do any of thoſe thynges, whiche be con<g ref="char:EOLhyphen"/>uenient and neceſſarie. And therwith loue well their people and countraie,
+<pb n="7" facs="tcp:173069:7"/>for no man ſhall rule well either, horſe or houndes, nor men, or any thyng els, if he delite not and take pleaſure in thoſe thynges, whiche be vnder his go<g ref="char:EOLhyphen"/>uernance.</p>
+            <p>¶ Take care of the multitude, and e<g ref="char:EOLhyphen"/>ſteme aboue all thynges, to rule graci<g ref="char:EOLhyphen"/>ouſely ouer them, whom thou gouer<g ref="char:EOLhyphen"/>neſt, remembring that as well where fewe perſons gouerneth, as alſo in o<g ref="char:EOLhyphen"/>ther commune weales, thei longeſt doe continue, that for the multitude do take moſt care and ſtudie.</p>
+            <p>¶ Thou ſhalte truly rule well thy peo<g ref="char:EOLhyphen"/>ple,
+<note place="margin">Iuiuries to be auoi<g ref="char:EOLunhyphen"/>ded.</note> if thou neither doeſt ſuffre any man to do wronge, nor deſpiſeſt any that ſuf<g ref="char:EOLhyphen"/>ffreth wronge. And takeſt good hede, that good men be rewarded with ho<g ref="char:EOLhyphen"/>nour and auctoritee, and that other by any iniurie be not indamaged. Theſe be the principles and chiefe introducti<g ref="char:EOLhyphen"/>on in to the right and commendable go<g ref="char:EOLhyphen"/>uernance of a publike weale.</p>
+            <pb facs="tcp:173069:8"/>
+            <p>¶ Repell or change ſuche lawes and or<g ref="char:EOLhyphen"/>dinances as be not well conſtitute,
+<note place="margin">Hurtefull tradicions to be auoi<g ref="char:EOLunhyphen"/>ded.</note> ſpe<g ref="char:EOLhyphen"/>cially be thou the auctour of thoſe that be good, or at the leaſt the folower of them that were well made by other.</p>
+            <p>¶ Seke for ſuche lawes,
+<note place="margin">What the lawes ſhulde be.</note> that on al par<g ref="char:EOLhyphen"/>tes be good, and doe profite to all vni<g ref="char:EOLhyphen"/>uerſally, and in them ſelfes be of one accorde and conſent: moreouer, thoſe that amonge the people make feweſt contencions. And ſuche controuerſies as be, determine them ſhortely. Al theſe thynges ought to be in lawes, that be well and ſubſtancially ordeined.</p>
+            <p>¶ Prouide for thy people ſuche occupa<g ref="char:EOLhyphen"/>cion, as wherby may growe great ad<g ref="char:EOLhyphen"/>vantage and lucre, and that contencion and ſute, maie bringe to them detri<g ref="char:EOLhyphen"/>mente, to the intent that they maie eſ<g ref="char:EOLhyphen"/>chue the tone, to the other thei maie be well diſpoſed and redy.</p>
+            <p>¶ In controuerſies geue alwaies ſuch ſentence as is not repugnant, and pro<g ref="char:EOLhyphen"/>nonce
+<pb n="8" facs="tcp:173069:8"/>thy iudgementes without fauour to any man, and without diſcordance, ſo that thei be euer all one and like in ſemblable cauſes.</p>
+            <p>¶ It becometh and is alſo expedient to princes in matter of iuſtice, to haue the minde immoueable, like to the lawes that be well prouided.</p>
+            <p>¶ Order thy Citee or countreie,
+<note place="margin">To go<g ref="char:EOLhyphen"/>uerne a citee.</note> lyke thy houſe lefte by thy father, in ſtuffe gaie and roially decked, in occupacion buſie and diligent, that thou maieſt haue bothe honour and abundance of richeſſe.</p>
+            <p>¶ Al be it declare thy magnificence not in ſuch ſumptuous expences, that ſhort<g ref="char:EOLhyphen"/>ly doo vaniſhe, but onely in the thynges before expreſſed: that is to ſaie, in the adournyng or garniſhyng of thy poſſeſ<g ref="char:EOLhyphen"/>ſions, and in beneficence and liberali<g ref="char:EOLhyphen"/>tee towarde thy friendes, for that, whi<g ref="char:EOLhyphen"/>che is ſo emploied, ſhal remaine with the ſtyll, and thou ſhalt leaue to thy
+<pb facs="tcp:173069:9"/>children more commoditee therby, than thei ſhoulde haue of ſuperfluous ex<g ref="char:EOLhyphen"/>pences.</p>
+            <p>¶ In the honour due vnto god obſerue diligently that whiche is lefte vnto thee by thy progenitours. and ſuppoſe veri<g ref="char:EOLhyphen"/>ly, that ſacrifice to be moſte acceptable and ſeruice moſt thankful to god, if thou endeuour thy ſelfe to excell all other men in vertue and iuſtice. For vn<g ref="char:EOLhyphen"/>doubtedly therby ſhalt thou opteine more reaſonable peticions, than if thou dydſt geue vnto hym great treaſure or offrynges.</p>
+            <p>¶ Rewarde thy familiar counſailours with principall dignitees, and to them whom thou knoweſt beneuolent and truſtie, geue perpetuall and ſtable pro<g ref="char:EOLhyphen"/>morions.</p>
+            <p>¶ Thinke that the beſte and moſt ſure garde of thy perſon be frendes vertu<g ref="char:EOLhyphen"/>ous and honeſt,
+<note place="margin">A princes ſure garde</note> louyng and beneuolent ſubiectes, and thine owne wyll ſtable
+<pb n="9" facs="tcp:173069:9"/>and circnmſpecte: for by thoſe thynges authoritee is opteined and lengeſt pre<g ref="char:EOLhyphen"/>ſerued.</p>
+            <p>¶ Haue good awaite on the houſehol<g ref="char:EOLhyphen"/>des, and expences of thy ſubiectes,
+<note place="margin">A princes right ouer his ſub<g ref="char:EOLhyphen"/>iectes.</note> thin<g ref="char:EOLhyphen"/>kyng that thei diſpendyng vnprofita<g ref="char:EOLhyphen"/>bly, dooe conſume thyne owne propre treaſure, and that whiche thei get by their good huſbandrie augmenteth thy ſubſtance and honour: Lonſideryng that all the goodes of them that be ſub<g ref="char:EOLhyphen"/>iectes, be at the commaundement of the prince that ruleth well and honou<g ref="char:EOLhyphen"/>rably.</p>
+            <p>¶ Let men perceiue the to haue alwaie truthe in ſuche reuerence, that to thy wordes, thei mai ſooner geue credence than to other mens othes.</p>
+            <p>¶ Make thy countreie ſafe and ſure a<g ref="char:EOLhyphen"/>bidyng to all them that be ſtrangers, and in their contractes iuſte and indif<g ref="char:EOLhyphen"/>ferent.</p>
+            <p>¶ Of ſuche as dooe repaire vnto thee,
+<pb facs="tcp:173069:10"/>ſet more by them, that for ſome merite doe looke to haue ſome thynge of thee, than of thoſe that do brynge preſentes to thee, for honoryng men for their me<g ref="char:EOLhyphen"/>rites thou ſhalte muche more be of o<g ref="char:EOLhyphen"/>ther commended.</p>
+            <p>¶ Take awaie feare fro thy ſubiectes, and be not terrible to them that haue not offended, but like as thou wouldeſt haue them diſpoſed towarde the, ſo be thou towarde them.</p>
+            <p>¶ Dooe thou nothyng in furie, ſens o<g ref="char:EOLhyphen"/>ther men knowe what time and occaſi<g ref="char:EOLhyphen"/>on is meeteſt for the.</p>
+            <p>¶ Be thou ſene to haue ſuche wiſedome and grauitee, that nothyng that is done can be hid from thee, not withſtanding be thou eaſie and mercifull, in puniſ<g ref="char:EOLhyphen"/>ſhyng offences vnder their merites.</p>
+            <p>¶ Shewe thy ſelfe princely, not in ſtur<g ref="char:EOLhyphen"/>dineſſe, or puniſſhyng cruelly, but in ſurmountyng all other in wiſedome, that thei maie ſuppoſe that thou canſt
+<pb n="10" facs="tcp:173069:10"/>counſaile them better for their weale than thei can them ſelfes.</p>
+            <p>¶ Be alſo warlike and valiant in fea<g ref="char:EOLhyphen"/>tes of armes and prouiſion for warres, but yet notwithſtandyng imbrace thou peace, and do nothyng iniuſtly.</p>
+            <p>¶ Deale thou with inferior countreies in all entercourſes and mutuall con<g ref="char:EOLhyphen"/>tractes, accordyng as thou woldeſt that thei that be to thy countreie ſuperiours, ſhulde do vnto the.</p>
+            <p>¶ Striue not for euery thyng, but for that onely whiche, if thou opteineſt maie be to thy profite.</p>
+            <p>¶ Blame not them that be vanquiſhed to their commoditee, but accompte the<g ref="char:cmbAbbrStroke">̄</g> to be fooles that do vanquiſhe other to their owne detriment.</p>
+            <p>¶ Suppoſe not them to be men of great wiſedome, that doe take greatter thin<g ref="char:EOLhyphen"/>ges in hande than thei can ordre: but thoſe, whiche in meane thynges dooe bringe well to paſſe that that thei pur<g ref="char:EOLhyphen"/>poſed.</p>
+            <pb facs="tcp:173069:11"/>
+            <p>¶ Folowe not them that dooe opteine greatteſt auctoritee, but them that beſt vſe thinges that be preſent.</p>
+            <p>¶ Finally do not thinke thy ſelfe hap<g ref="char:EOLhyphen"/>pie, if thou ruleſt ouer all men terribly and in great danger, but if beyng ſuche as thou oughteſt to be, and doyng as the time preſent requireth, thou deſireſt moderate thynges, and therof thou lac<g ref="char:EOLhyphen"/>keſt nothyng, than arte thou happy.</p>
+            <p>¶ Get thee frendes, not all them that dooe ſeke frendſhip of the: but ſuche as be moſt agreable vnto thy nature, nei<g ref="char:EOLhyphen"/>ther thoſe, with whom thou ſhalte liue pleſantly, but with whom thou maieſt gouerne thy countrey moſt ſurely.</p>
+            <p>¶ Make diligent eſpiall and prouſe of thy moſt familiar ſeruantes, remem<g ref="char:EOLhyphen"/>bryng that ſuche as be not with the ſo conuerſant, doe ſuppoſe that thou arte like in condicions to them, whom thou vſeſt familiarly.</p>
+            <pb n="11" facs="tcp:173069:11"/>
+            <p>¶ Matters, wherwith thou thy ſelfe wilte not medel, committe to ſuche per<g ref="char:EOLhyphen"/>ſons, as what ſo euer thei do, the blame ſhall be imputed thiefely vnto the.</p>
+            <p>¶ Thinke not them to be loial or faith<g ref="char:EOLhyphen"/>full, that doe preiſe all thyng that thou doeſt, but them that do blame the thing, wherin thou erreſt.</p>
+            <p>¶ Geue to wiſe men libertee to ſpeake to thee freely: that in thynges, wherof thou doubteſt, thou maieſt haue them, with whom thou maieſt trie out the certaintee.</p>
+            <p>¶ Diſcerne crafty flatterers,
+<note place="margin">Crafti<gap reason="illegible: right margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> flattere<gap reason="illegible: right margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> from the<g ref="char:cmbAbbrStroke">̄</g> that dooe ſerue the with true herte and beneuolence, leſt the euill men receiue more profite by thee, than thei that be honeſt and vertuous.</p>
+            <p>¶ Here diligently what men ſpeke mu<g ref="char:EOLhyphen"/>tually one of an other, and aſſaie to know as well what maner of perſens thoſe be that haue ſpoken, as alſo thei, of whom thei reported.</p>
+            <pb facs="tcp:173069:12"/>
+            <p>¶ Accordyngly as thou correcteſt offen<g ref="char:EOLhyphen"/>ders,
+<note place="margin">Falſe de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>actours.</note> ſemblably, and with the ſame pu<g ref="char:EOLhyphen"/>niſhment correcte falſe detractours and accuſers of innocentes.</p>
+            <p>¶ Haue no laſſe dominion or rule ouer thy ſelfe, than ouer other.</p>
+            <p>¶ Thinke it moſte incident vnto a kynge and moſt roiall, neuer to be ſub<g ref="char:EOLhyphen"/>iecte to pleaſant affections, but to rule more ouer thyne appetites than ouer thy people and ſubiectes.</p>
+            <p>¶ Admitte no recreation without good aduiſement, but delite in ſuche exerciſe, wherby thou maiſt receiue ſome com<g ref="char:EOLhyphen"/>moditee, and that other maie perceiue, that thou arte therby the better.</p>
+            <p>¶ Glory not in ſuche thinges, which are poſſible to be done by them that be vn<g ref="char:EOLhyphen"/>thriftes, but reioice in vertue, wherin euill men can not participate with thee.</p>
+            <p>¶ Suppoſe not honour to be that,
+<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ery ho<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ur.</note> which is publiſhed abrode with feare, but ve<g ref="char:EOLhyphen"/>rie honour to be, where men by them
+<pb n="12" facs="tcp:173069:12"/>ſelfes wonder more at thy wiſedome than at thy fortune.</p>
+            <p>¶ If it chance the to take any pleaſure in any thynge that is not honeſt or ver<g ref="char:EOLhyphen"/>tuouſe, do it verie ſecretly, but goyng a<g ref="char:EOLhyphen"/>bout thinges of gret weight and impor<g ref="char:EOLhyphen"/>ta<g ref="char:cmbAbbrStroke">̄</g>ce, ſhew thy ſelfe abrode vnto al men.</p>
+            <p>¶ Require not that all other men ſhuld liue in good order, and princes to be in their liuyng remiſſe and negligent, but ordre thy temperance in liuyng, to be an example to other, conſideryng that the maners of all the whole citee or con<g ref="char:EOLhyphen"/>traie, do inſue and reſemble their prin<g ref="char:EOLhyphen"/>ces condicions.</p>
+            <p>¶ It ſhall be to the a token, that thou haſte well gouerned, if thou perceiue them that be vnder thy gouernance to be by thy diligence welthie and more temperate in liuyng.</p>
+            <p>¶ Set more by leauyng to thy chil<g ref="char:EOLhyphen"/>dren honeſt fame or renoume,
+<note place="margin">Honeſt fame.</note> than gret poſſeſſions or richeſſe. for theſe be tran<g ref="char:EOLhyphen"/>ſitorie,
+<pb facs="tcp:173069:13"/>the other immortall. Alſo goo<g ref="char:EOLhyphen"/>des maie be gotten by fame, but good fame can be bought with no money.</p>
+            <p>Alſo goodes happen to men that be of euill diſpoſition, but ſo doth not good eſtimacion, but cometh onely to them that endeuour them ſelfe with vertue to gette it.</p>
+            <p>¶ Be delicate in thine apparaile and garmentes that ſerue for thy bodie, in all other partes of thy liuyng be conti<g ref="char:EOLhyphen"/>nent as it beſemeth all princes of ho<g ref="char:EOLhyphen"/>nour, to the intent that thei that be<g ref="char:EOLhyphen"/>holde the, for thine honorable preſence mai deme the worthy to be a gouernour and thy familiars and ſeruauntes for thy noble courage may haue of the a lyke good opinion.</p>
+            <p>¶ Conſider diligently both thyne owne woordes and thy dedes, to the intent thou maiſt fall in very fewe errours.</p>
+            <p>¶ Of all thynges it is beſte to happen on the right pointe of all thynges that
+<pb n="13" facs="tcp:173069:13"/>are to be doone, but for as muche as that is very harde to be knowen, better is to leue ſomewhat, than to excede.</p>
+            <p>For that, wherin ſomewhat doth lacke is nerer to temperance, than that wher<g ref="char:EOLhyphen"/>in is to muche abundance.</p>
+            <p>¶ Endeuour the to be bothe courtaiſe and of a reuerende grauitee:
+<note place="margin">Courteſy &amp; grauite<gap reason="illegible: right margin cropped or obscured"
+                       resp="#MURP"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> for the one beſemeth a prince, the other is expedient and more agreable to euery company: all be it to vſe both, it is of all other thin<g ref="char:EOLunhyphen"/>ges the moſte difficile. for thou ſhalte fynde for the more parte them that vſe a reuerent grauitee to be vnpleaſaunt, them that be courtoyſe, to be of baſe courage and ſimple. Therfore the one and the other is to be vſed, but than ex<g ref="char:EOLhyphen"/>chue that thyng, whiche in any of them is yll or ſemeth inconuenient.</p>
+            <p>¶ If thou woldeſt perfectly know that,
+<note place="margin">Expery<g ref="char:EOLhyphen"/>ence and philoſo<g ref="char:EOLhyphen"/>phy.</note> which belongeth to kynges to perceiue, geue the to experience and ſtudie of phi<g ref="char:EOLhyphen"/>loſophy, for philoſophy ſhall declare vn<g ref="char:EOLhyphen"/>to
+<pb facs="tcp:173069:14"/>thee the meanes or waies howe to bringe to paſſe thine affaires: experi<g ref="char:EOLhyphen"/>ence in ſemblable buſineſſe ſhall make the able to doo or ſuſteine them.</p>
+            <p>¶ Beholde diligently, that whiche as well princes as priuate perſons do dai<g ref="char:EOLhyphen"/>ly, and what of their actes doth ſuccede in concluſion.</p>
+            <p>¶ Surely if thou remembre well thin<g ref="char:EOLhyphen"/>ges that are paſſed, thou ſhalt the better conſulte of thynges comyng.</p>
+            <p>¶ Thinke where priuate perſons haue died with good will, to the intent that after their death thei mought be com<g ref="char:EOLhyphen"/>mended, that it were great ſhame to princes, not to trauaile in ſuche ſtudie or buſineſſe, wherby in their liues thei mate be worthily praiſed.</p>
+            <p>¶ Deſyre to leaue whan thou dieſt, ra<g ref="char:EOLhyphen"/>ther monumentes or images of thy ver tues than of thy perſonage.</p>
+            <p>¶ Endeuor the ſpecially to kepe alwai thy ſelfe and thy countrey in ſuretie.</p>
+            <pb n="14" facs="tcp:173069:14"/>
+            <p>¶ If neceſſitee conſtreigne thee to ieo<g ref="char:EOLhyphen"/>parde thy perſon, choſe rather to die with honour, than to liue in reproche.</p>
+            <p>¶ In all thyne actes remembre that thou arte a prince: and therfore do no<g ref="char:EOLhyphen"/>thynge vnworthie to ſo high a dignitee.</p>
+            <p>¶ Set not ſo litle by thy nature, that thou ſuffre thy ſelfe all wholly to periſh, but in as muthe as thy bodie is mortal, and thy ſoule immortall, aſſaie to leue to thy ſoule an immortall reme<g ref="char:cmbAbbrStroke">̄</g>brance.</p>
+            <p>¶ Vſe thee to ſpeake of honeſt affaires and ſtudies, that by ſuche cuſtome thou maieſt thinke on like thynges as thou ſpekeſt of.</p>
+            <p>¶ Thynges that in counſailyng ſeme to be beſte, thoſe execute thou in thy pro<g ref="char:EOLhyphen"/>per actes.</p>
+            <p>¶ At whoſe good renowme thou haſt moſt enuie, his dedes do thou folow.</p>
+            <p>¶ Looke what thou counſaileſt thy chil<g ref="char:EOLhyphen"/>dren or ſeruantes to doe, thinke it con<g ref="char:EOLhyphen"/>uenient that thy ſelfe do the ſame.</p>
+            <pb facs="tcp:173069:15"/>
+            <p>¶ Either vſe that whiche I haue adui<g ref="char:EOLhyphen"/>ſed the to do, or enquyre for better than that is.</p>
+            <p>¶ Suppoſe not them to be wiſe men, that ſharpely can talke of ſmall thinges and trifles, but thoſe that can ſubſtan<g ref="char:EOLhyphen"/>cially reaſon in matters of weighty importance.</p>
+            <p>¶ Nor thinke not them wiſe, that pro<g ref="char:EOLhyphen"/>miſſe to other men welthe and good for<g ref="char:EOLhyphen"/>tune, thei them ſelfe beyng in great ne<g ref="char:EOLhyphen"/>ceſſitee, but rather thoſe that ſpeakyng of them ſelfes moderately, can with o<g ref="char:EOLhyphen"/>ther men and in their affaires vſe them ſelfe well and diſcretely and beyng not troubled with any change of their li<g ref="char:EOLhyphen"/>uing, knowe howe to beare honeſtly and temperately as well aduerſitee as alſo proſperitee.</p>
+            <p>¶ And meruaile thou not, that I haue now reherſed many thynges that thou kneweſt before, nor that forgatte I not, but knewe well enough, that beyng
+<pb n="15" facs="tcp:173069:15"/>ſuche a multitude as well of princes as of priuate perſons, ſome of them haue ſpoken the ſame that I did, and many haue hearde it, and diuers haue ſeen o<g ref="char:EOLhyphen"/>ther men done it, and ſome there be that by them ſelfes haue experienced it. Not withſtanding in mater concernyng In<g ref="char:EOLhyphen"/>ſtruction, noueltie is not to be ſought for, for therin ought not to be founden either ſinguler opinion, or thynge im<g ref="char:EOLhyphen"/>poſſible, or contrarie to mens coniec<g ref="char:EOLhyphen"/>ture: but ſuppoſe that to be in heryng moſte gracious or pleaſant, whiche be<g ref="char:EOLhyphen"/>yng ſowen in the mindes of other, maie aſſemble moſte matter to the purpoſe, and the ſame declare beſte and moſte aptely. For this knowe I well, that the counſailes and wiſe ſentences of po<g ref="char:EOLhyphen"/>etes and other good authours, are thought of all men to be very profita<g ref="char:EOLhyphen"/>ble: yet will not thei very gladly geue eare vnto them, but be therwith in the ſame caſe, as thei be with thoſe that doe
+<pb facs="tcp:173069:16"/>geue them good counſaile, for thei praiſe them all, but thei care not howe ſel<g ref="char:EOLhyphen"/>dome thei come in their compani, deſi<g ref="char:EOLhyphen"/>ryng to be rather with offendours, than with them that of ſinne be the rebu<g ref="char:EOLhyphen"/>kars. Example we maie take of the po<g ref="char:EOLhyphen"/>emes or workes of Heſiodus, Theog<g ref="char:EOLhyphen"/>nes, and phorillides. For euery man affirmeth the<g ref="char:cmbAbbrStroke">̄</g> to be excellent counſailes concernyng mans lyfe, but all though thei ſaie ſo, yet had thei leuer vſe that, wherto their owne madneſſe indureth them, than folow that wherto the others preceptes doeth aduiſe them. Moreo<g ref="char:EOLhyphen"/>uer if one ſhulde gader out of the ſaide authours that whiche men call centen<g ref="char:EOLhyphen"/>ces, wherin thei perchance haue ben ſtu<g ref="char:EOLhyphen"/>diouſe: in ſemblable wiſe toward them ſhuld thei be diſpoſed, for thei ſhuld with more pleaſure here a liyng fable or a fa<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tafie, than the ſaide preceptes made by much connyng and diligence. But what nedeth it to tarie longe vpon euery ma<g ref="char:EOLhyphen"/>ter?
+<pb n="16" facs="tcp:173069:16"/>Generally if we will conſider the natures of men, we ſhall perceiue, that many of them delite neither in meates that bene moſt holſome, nor in ſtudies that ben moſt honeſt, nor in dedes that be moſte conuenient: nor yet in doc<g ref="char:EOLhyphen"/>trine that is moſt commodious, but im<g ref="char:EOLhyphen"/>bracing pleſant appetites, which be re<g ref="char:EOLhyphen"/>pugnant to prolite, wolde ſeme to be painfull and laboriouſe, although thei doo nothyng expedient, or neceſſarie.</p>
+            <p>Howe maie any man content any ſuche perſons, either by prechyng or teaching or tellyng of any thynge that is profita<g ref="char:EOLhyphen"/>ble: that for the wordes that be ſpoken, do enuie and haue indignacion at them that ſpeake truly, and doe take them for plaine men or ſimple, in whom lacketh wiſedome? ſo muche they abhorre trouthe in all thynges, that thei knowe not what is theirs or do belonge to their office, but conſultyng or reaſonyng of that whiche dothe perteine vnto them,
+<pb facs="tcp:173069:17"/>thei be ſadde and vnpleaſant, whan thei talke of other mens affaires thei be merie and ioyouſe. Moreouer thei had leauer ſuffer ſome grefe in their bodies, than in reuoluyng what ſhuld be moſte neceſſarie, trauaile any thynge in their mindes. And if a man take good hede he ſhall fynde in theyr mutuall aſſem<g ref="char:EOLhyphen"/>bles and companies, that either thei re<g ref="char:EOLhyphen"/>proue other men, or els that thei of o<g ref="char:EOLhyphen"/>ther be in ſome thynge reproued. And whan thei be by themſelfes, thei be euer wiſſhing and neuer conſultyng. I haue not ſpoken this againe all men but on<g ref="char:EOLhyphen"/>ly againe them that be giltie in that, whiche I haue reherſed. Finally this is apparant and certaine, who ſo euer wyll make or write any thynge plea<g ref="char:EOLhyphen"/>ſant and thankfull to the multitude, he maie not ſeke for woordes or matters moſt profitable, but for them that con<g ref="char:EOLhyphen"/>teine moſt fables and leaſynges. For in bearyng ſuche thynges thei reioyce:
+<pb n="17" facs="tcp:173069:17"/>but whan thei perceiue to be labours and contencions in their affaires, than be they penſife. Wherfore Homere and they that founde firſte tragedies, mai bee well meruailed at, who in their workes vſed bothe the ſaide fourmes in writynge, for Homere expreſſed in his workes the contencions and batailes of them, whiche for their vertues, were named halfe goddes, the other brought thoſe fables into actuall apparaunce.</p>
+            <p>In ſo muche as we not onely maie here them, but alſo maie preſently beholde them, by ſuche example is it declared to them that bee ſtudiouſe to pleaſe their herers, that thei muſt abſtaine from ex<g ref="char:EOLhyphen"/>hortyng and counſailyng them, and that thei apply them to write and ſpeake that onely, wherin thei perceiue the mnl titnde to haue moſte delectacion.</p>
+            <p>This before written haue I declared, thinkyng that it beſemeth not the that art not one of the people, to be of lyke
+<pb facs="tcp:173069:18"/>opinion with the multtitude, or to iudge thynges to be honeſt, or men to be ple<g ref="char:EOLhyphen"/>ſant, according to thy ſenſuall appetite, but to trie and eſteme them by their good and profitable actes.</p>
+            <p>Moreouer for as muche as they that la<g ref="char:EOLhyphen"/>bour in the ſtudie of Ppiloſophy, con<g ref="char:EOLhyphen"/>cernyng the exerciſe of the myndes, be of ſondrie opinions, ſome ſaiyng that men become wiſer by muche diſputyng and reaſonyng, other affirme that it hapneth by exerciſe in polityke gouer<g ref="char:EOLhyphen"/>nance, or ciuill cauſes, diuers ſuppoſe it to come of other doctrines: but final<g ref="char:EOLhyphen"/>ly thei all doe confeſſe, that he whiche is well brought vp, may by euery of the ſaide ſtudies gather mater ſufficient to geue good counſaile.</p>
+            <p>Therfore he that wyll leaue the doubt<g ref="char:EOLhyphen"/>full opinions, and wyll applie to that whiche is certaine, he muſte examine the reaſons therof, and ſperially they that be counſailours ought to haue con<g ref="char:EOLhyphen"/>ſideration
+<pb n="18" facs="tcp:173069:18"/>of the occaſion, time and o<g ref="char:EOLhyphen"/>portunitee, if thei can not bringe that to paſſe, than to reiecte and put awaie as well them whiche ſpeke in all matters generally, as alſo thoſe that perceiue nothyng that is expedient or neceſſarie, for it is aparant, and certaine, that he whiche can not be to him ſelfe profita<g ref="char:EOLhyphen"/>ble, he ſhall in other mens buſineſſe do nothynge wiſely.</p>
+            <p>Make muche of them that be wiſe, and do perceiue more than other men, and haue good regarde towarde them: re<g ref="char:EOLhyphen"/>membryng that a good counſailour,
+<note place="margin">A good counſai<g ref="char:EOLhyphen"/>lour.</note> is of all other treaſure the moſt roiall and profitable, and thinke verily that they whiche can moſt aide and profite to thy witte or reaſon, ſhall make thy kynge<g ref="char:EOLhyphen"/>dome moſte ample and honorable.</p>
+            <p>Wherfore for my parte as muche as I ran, I haue exhorted the, and honored the with ſuche preſentes as be in my po<g ref="char:EOLhyphen"/>wer to geue the. And deſyre thou not,
+<pb facs="tcp:173069:19"/>that other men ſhulde bringe vnto the (as I ſaide at the beginnyng, their ac<g ref="char:EOLhyphen"/>cuſtomed preſentes, which ye ſhuld bie muche derer of the giuers, than of the ſellers: but couaite thou ſuche preſen<g ref="char:EOLhyphen"/>tes, whiche if thou do vſe well and dili<g ref="char:EOLhyphen"/>genly omittyng no tyme, thou not one<g ref="char:EOLhyphen"/>ly ſhalt not conſume them, but thou ſhalte alſo encreaſe them, and make them of more eſtimacion and value.</p>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="addendum">
+            <head>Addicion, to fill vp vacant pages.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Ul truely writeth Salomon, The herte of the kynge is in the hande of god, and whiche wai ſo euer he willeth he ſhal incline it: but the very laude of a good kynge is, if he againe incline his herte to god, the kynge of all kynges, alwaie bendyng to his will, without whoſe fa<g ref="char:EOLhyphen"/>uourable
+<pb n="19" facs="tcp:173069:19"/>aide, mans indeuour can no<g ref="char:EOLhyphen"/>thynge dooe: and ſo frameth all his actes, as knowlageyng and myndyng, that what ſo euer he dooeth, he dooeth it before his eies, who is no leſſe iudge ouer kynges then ouer common peo<g ref="char:EOLhyphen"/>ple. Nothyng is truely proſperous, nothynge can be called welthy, that the authour of all felicitee wyll not vouche<g ref="char:EOLhyphen"/>ſafe to make fortunate. Moſt luckely, moſte happily it is doone, what ſo euer is doone accordynge to his wyll, who ſaieth: By me kynges do reigne, and the lawe makers decerne iuſte thinges: by me princes rule, and mighty men iudge iuſt thynges. This ſaide the e<g ref="char:EOLhyphen"/>ternall wiſedome, whiche is the ſonne of God. What preſcribeth Sapience to kynges? Mercy (ſaieth ſhe) and Trouthe doe kepe the kynge: and his Throne is made ſtronge with clemen<g ref="char:EOLhyphen"/>cie. He ſheweth Mercie in ſuccouryng the oppreſſed: Trouthe in iudgeyng
+<pb facs="tcp:173069:20"/>truely. Clemencie in temperyng the ſeueritee of the lawes with lenitee.</p>
+            <p>The ſpeciall duetie, and whervnto kynges were wonte to bee ſworne, whan thei beganne their reigne, was this, to helpe widowes, to ſuccour the fa<g ref="char:EOLhyphen"/>therleſſe, and to deliuer and defende all that are oppreſſed fro<g ref="char:cmbAbbrStroke">̄</g> iniurie. Trouthe hath two companions, Sapience and Conſtance. Sapience geueth light vn<g ref="char:EOLhyphen"/>to the eies: wherby is perceiued, what is right, and what not, what is pro<g ref="char:EOLhyphen"/>fitable for the weale publyke, and what is contrarie to it. Conſtancie cauſeth, that the mynde, ouercomyng all coue<g ref="char:EOLhyphen"/>touſe deſires, neither with ire, nor with loue, nor with hatred, is moued from honeſtie. Clemencie tempereth with lenitee neceſſarie Seueritee. Clemen<g ref="char:EOLhyphen"/>rie is not foorthwith to goe in hande with warre, whan cauſe of warre is geuen, but to leaue no reaſonable meane vnaſſaied, to ſee whether the
+<pb n="20" facs="tcp:173069:20"/>matter maie bee determined without warre. And otherwhile it is better to diſſemble the iniurie, than to reuenge it by force of armes. It is Clemencie, if by no meanes it maie be eſchewed, ſo to make warre, that as littell hu<g ref="char:EOLhyphen"/>maine bloudde be ſpilte as can be, and that the warres be ended as ſhortely as maie be. For this wiſedome, that brin<g ref="char:EOLhyphen"/>geth all good thynges with it, Salo<g ref="char:EOLhyphen"/>mon praied for, that ſhe ſhulde alwaie bee aſſiſtent to his Throne, as a moſte faithfull and truſty counſailour.</p>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>JMPRINTED AT</hi> London in Flete ſtrete, in the houſe of Thomas Berthelet.</p>
+            <p>
+               <hi>Cumpriuilegio ad impri<g ref="char:EOLhyphen"/>mendum ſolum.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
